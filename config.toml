@@ -1,0 +1,39 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "GypsCore"
+theme = "etch"
+
+#HTMLのショートコードを有効化
+enableInlineShortcodes = true
+#コードブロックのシンタックスハイライト
+pygmentsCodeFences = true
+#シンタックスハイライトのCSSカスタマイズ
+pygmentsUseClasses = true
+
+
+
+[params]
+  description = "This is my site"
+  copyright = "Copyright © 2021 gypscore"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/posts/"
+    weight = 20
+
+
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
