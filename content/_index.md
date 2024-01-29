@@ -28,4 +28,4 @@ title: "GypsCore"
 - X : [@gypscore](https://twitter.com/gypscore)
 - GitHub : [gypscore](https://github.com/gypscore)
 - Zenn : [@gypscore](https://zenn.dev/gypscore) 
-
+- mail : mail@gypscore.net
