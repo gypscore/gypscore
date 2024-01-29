@@ -1,21 +1,22 @@
 ---
-title: "About"
+title: "about"
 ---
 しがない組み込みエンジニアです。<br>
 低レイヤに興味があります。<br>
 
-### 興味
+### Interests
 - 組込み技術
 - 制御工学
 - 機械学習
-- 低レイヤの実装
+- Operating System
+- Computer Architectures
 
-### 趣味
+### Hobbies
 - パソコンカタカタ
 - 歌うこと
 - ランニング
 
-### 好き
+### likes
 - ポケモン
 - メイドインアビス
 - ℃りけい
@@ -23,8 +24,8 @@ title: "About"
 - ゆるキャン△
 - 電脳コイル
 
-
-### リンク
+### Links
 - X : [@gypscore](https://twitter.com/gypscore)
 - GitHub : [gypscore](https://github.com/gypscore)
-- Zenn : [@gypscore](https://zenn.dev/gypscore) (リンクだけ)
+- Zenn : [@gypscore](https://zenn.dev/gypscore) 
+
