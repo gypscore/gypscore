@@ -1,15 +1,15 @@
 ---
-title: "about"
+title: "GypsCore"
 ---
-しがない組み込みエンジニアです。<br>
+しがない組込みエンジニアです。<br>
 低レイヤに興味があります。<br>
 
 ### Interests
 - 組込み技術
 - 制御工学
 - 機械学習
-- Operating System
-- Computer Architectures
+- オペレーティングシステム
+- コンピュータアーキテクチャ
 
 ### Hobbies
 - パソコンカタカタ
