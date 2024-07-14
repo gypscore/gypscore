@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://gypscore.net/"
 languageCode = "en-us"
 title = "GypsCore"
 theme = "etch"
@@ -14,7 +14,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "This is GypsCore pages"
-  copyright = "Copyright © 2021 gypscore"
+  copyright = "Copyright © 2024 gypscore"
   dark = "auto"
   highlight = true
 
