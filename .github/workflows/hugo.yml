@@ -38,9 +38,10 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      - name: Upload to GitHub Pages
-        uses: actions/upload-pages-artifact@v1
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
+          name: github-pages
           path: ./public
 
   deploy:
@@ -48,6 +49,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
