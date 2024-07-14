@@ -27,6 +27,4 @@ title: "GypsCore"
 ### Links
 - X : [@gypscore](https://twitter.com/gypscore)
 - VRChat : [gypscore](https://vrchat.com/home/user/usr_0a5b0eed-6ee8-4003-9453-1071ae4d8656)
-- GitHub : [gypscore](https://github.com/gypscore)
-- Zenn : [@gypscore](https://zenn.dev/gypscore) 
 - mail : mail@gypscore.net
