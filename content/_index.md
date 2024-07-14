@@ -1,18 +1,19 @@
 ---
 title: "GypsCore"
 ---
-しがない組込みエンジニアです。<br>
-低レイヤに興味があります。<br>
+じぷすこあ。<br>
+制御とか低いレイヤに興味がある組み込みエンジニアです。<br>
+
+名前は[Gypsophila](https://en.wikipedia.org/wiki/Gypsophila) からきてます。<br>
 
 ### Interests
-- 組込み技術
+- 組み込み
 - 制御工学
 - 機械学習
-- オペレーティングシステム
-- コンピュータアーキテクチャ
 
 ### Hobbies
 - パソコンカタカタ
+- VRChat
 - 歌うこと
 - ランニング
 
@@ -22,10 +23,10 @@ title: "GypsCore"
 - ℃りけい
 - 恋アス
 - ゆるキャン△
-- 電脳コイル
 
 ### Links
 - X : [@gypscore](https://twitter.com/gypscore)
+- VRChat : [gypscore](https://vrchat.com/home/user/usr_0a5b0eed-6ee8-4003-9453-1071ae4d8656)
 - GitHub : [gypscore](https://github.com/gypscore)
 - Zenn : [@gypscore](https://zenn.dev/gypscore) 
 - mail : mail@gypscore.net

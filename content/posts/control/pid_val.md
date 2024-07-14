@@ -1,7 +1,7 @@
 ---
 title: "PID制御のバリエーション"
 date: 2024-02-04T11:44:36+09:00
-draft: false
+draft: true
 ---
 
 
