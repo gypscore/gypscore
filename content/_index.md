@@ -2,7 +2,7 @@
 title: "GypsCore"
 ---
 じぷすこあ。<br>
-制御とか低いレイヤに興味がある組み込みエンジニアです。<br>
+おしゃべりと歌うことが好きな組み込みエンジニアです～<br>
 
 名前は[Gypsophila](https://en.wikipedia.org/wiki/Gypsophila) からきてます。<br>
 
@@ -12,17 +12,15 @@ title: "GypsCore"
 - 機械学習
 
 ### Hobbies
-- パソコンカタカタ
 - VRChat
 - 歌うこと
 - ランニング
+- パソコンカタカタ
 
 ### likes
 - ポケモン
-- メイドインアビス
 - ℃りけい
-- 恋アス
-- ゆるキャン△
+- Mrs. Green Apple
 
 ### Links
 - X : [@gypscore](https://twitter.com/gypscore)
