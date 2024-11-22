@@ -2,7 +2,7 @@
 title: "GypsCore"
 ---
 じぷすこあ。<br>
-おしゃべりと歌うことが好きな組み込みエンジニアです～<br>
+歌うことが好きな組み込みエンジニアです～<br>
 
 名前は[Gypsophila](https://en.wikipedia.org/wiki/Gypsophila) からきてます。<br>
 
